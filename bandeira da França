@@ -1,0 +1,14 @@
+function setup() {
+  createCanvas(400, 300);
+}
+
+
+function draw() {
+  background(220);
+  rect(1, 1, 133, 397);
+  fill("red");
+  rect(266, 1,133,397);
+  fill("rgb(241,234,234)");
+  rect(133,1,133,397);
+  fill("#132794")
+}
